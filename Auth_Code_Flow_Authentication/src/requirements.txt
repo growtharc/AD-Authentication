@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+msal 
+aiohttp
+python-dotenv
+rich
